@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="logo" title="Python" src="./logo.png" width="200px" height="100px"/>
+  <img alt="logo" title="Python" src="./images/logo.png" width="200px" height="100px"/>
 </h1>
 
 <p align="center">Este projeto é um script para enviar emails com anexo automaticamente. Foi feito para automatização da empresa em que trabalho.</p>
