@@ -23,10 +23,13 @@
 <h2 id="tecnologias">•💻 Tecnologias</h2>
 <h3> As seguintes tecnologias foram usadas no projeto:</p>
 <p> 
-  <a href="https://selenium-python.readthedocs.io/">•Selenium</a>
+  <a href="https://docs.python.org/3/library/smtplib.html">•Smtplib</a>
 </p>
 <p>
-  <a href="https://selenium-python.readthedocs.io/">•Webdriver</a>
+  <a href="https://docs.python.org/3/library/datetime.html">•Datetime</a>
+</p>
+<p>
+  <a href="https://docs.python.org/3/library/email.mime.html">•MIMEMultipart</a>
 </p>
 
 <h2 id="autor">✍Autor </h2>
